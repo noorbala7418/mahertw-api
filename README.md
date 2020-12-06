@@ -11,6 +11,11 @@ Made with Lumen framework.
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
 - Choose a random String and replace them to __APP_KEY__ in .env
+- Replace __Twitter_Api_Key__ in .env
+- Replace __Twitter_Secret_Key__ in .env
+- Replace __Twitter_Bearer_Token__ in .env
+- Replace __Twitter_ACCESS_TOKEN__ in .env
+- Replace __TWITTER_ACCESS_TOKEN_SECRET__ in .env
 - Run __php -S 127.0.0.1:8000 -t public__
 
 ---
